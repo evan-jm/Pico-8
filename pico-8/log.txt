@@ -176,3 +176,61 @@
 [3442193] run_cart current_filename: /home/evanmitchell/.lexaloffle/pico-8/carts/forever_&_ever/main.p8 running_filename: forever_&_ever/main.p8 running_cart_lid: 
 [3502726] run_cart current_filename: /home/evanmitchell/.lexaloffle/pico-8/carts/forever_&_ever/main.p8 running_filename: forever_&_ever/main.p8 running_cart_lid: 
 [3506117] run_cart current_filename: /home/evanmitchell/.lexaloffle/pico-8/carts/forever_&_ever/main.p8 running_filename: forever_&_ever/main.p8 running_cart_lid: 
+[3660250] run_cart current_filename: /home/evanmitchell/.lexaloffle/pico-8/carts/forever_&_ever/main.p8 running_filename: forever_&_ever/main.p8 running_cart_lid: 
+[3674532] run_cart current_filename: /home/evanmitchell/.lexaloffle/pico-8/carts/forever_&_ever/main.p8 running_filename: forever_&_ever/main.p8 running_cart_lid: 
+[3686679] run_cart current_filename: /home/evanmitchell/.lexaloffle/pico-8/carts/forever_&_ever/main.p8 running_filename: forever_&_ever/main.p8 running_cart_lid: 
+[3694695] run_cart current_filename: /home/evanmitchell/.lexaloffle/pico-8/carts/forever_&_ever/main.p8 running_filename: forever_&_ever/main.p8 running_cart_lid: 
+[3704711] run_cart current_filename: /home/evanmitchell/.lexaloffle/pico-8/carts/forever_&_ever/main.p8 running_filename: forever_&_ever/main.p8 running_cart_lid: 
+[3716437] run_cart current_filename: /home/evanmitchell/.lexaloffle/pico-8/carts/forever_&_ever/main.p8 running_filename: forever_&_ever/main.p8 running_cart_lid: 
+[3722878] run_cart current_filename: /home/evanmitchell/.lexaloffle/pico-8/carts/forever_&_ever/main.p8 running_filename: forever_&_ever/main.p8 running_cart_lid: 
+[3729444] run_cart current_filename: /home/evanmitchell/.lexaloffle/pico-8/carts/forever_&_ever/main.p8 running_filename: forever_&_ever/main.p8 running_cart_lid: 
+[3749126] run_cart current_filename: /home/evanmitchell/.lexaloffle/pico-8/carts/forever_&_ever/main.p8 running_filename: forever_&_ever/main.p8 running_cart_lid: 
+[3771776] run_cart current_filename: /home/evanmitchell/.lexaloffle/pico-8/carts/forever_&_ever/main.p8 running_filename: forever_&_ever/main.p8 running_cart_lid: 
+[3845476] run_cart current_filename: /home/evanmitchell/.lexaloffle/pico-8/carts/forever_&_ever/main.p8 running_filename: forever_&_ever/main.p8 running_cart_lid: 
+[3851643] run_cart current_filename: /home/evanmitchell/.lexaloffle/pico-8/carts/forever_&_ever/main.p8 running_filename: forever_&_ever/main.p8 running_cart_lid: 
+[3863762] run_cart current_filename: /home/evanmitchell/.lexaloffle/pico-8/carts/forever_&_ever/main.p8 running_filename: forever_&_ever/main.p8 running_cart_lid: 
+[3871963] run_cart current_filename: /home/evanmitchell/.lexaloffle/pico-8/carts/forever_&_ever/main.p8 running_filename: forever_&_ever/main.p8 running_cart_lid: 
+[3878003] run_cart current_filename: /home/evanmitchell/.lexaloffle/pico-8/carts/forever_&_ever/main.p8 running_filename: forever_&_ever/main.p8 running_cart_lid: 
+[3881864] run_cart current_filename: /home/evanmitchell/.lexaloffle/pico-8/carts/forever_&_ever/main.p8 running_filename: forever_&_ever/main.p8 running_cart_lid: 
+[3960023] run_cart current_filename: /home/evanmitchell/.lexaloffle/pico-8/carts/forever_&_ever/main.p8 running_filename: forever_&_ever/main.p8 running_cart_lid: 
+[3982740] run_cart current_filename: /home/evanmitchell/.lexaloffle/pico-8/carts/forever_&_ever/main.p8 running_filename: forever_&_ever/main.p8 running_cart_lid: 
+[4022774] run_cart current_filename: /home/evanmitchell/.lexaloffle/pico-8/carts/forever_&_ever/main.p8 running_filename: forever_&_ever/main.p8 running_cart_lid: 
+[4037136] run_cart current_filename: /home/evanmitchell/.lexaloffle/pico-8/carts/forever_&_ever/main.p8 running_filename: forever_&_ever/main.p8 running_cart_lid: 
+[4040575] run_cart current_filename: /home/evanmitchell/.lexaloffle/pico-8/carts/forever_&_ever/main.p8 running_filename: forever_&_ever/main.p8 running_cart_lid: 
+[4083167] run_cart current_filename: /home/evanmitchell/.lexaloffle/pico-8/carts/forever_&_ever/main.p8 running_filename: forever_&_ever/main.p8 running_cart_lid: 
+[4103081] run_cart current_filename: /home/evanmitchell/.lexaloffle/pico-8/carts/forever_&_ever/main.p8 running_filename: forever_&_ever/main.p8 running_cart_lid: 
+[4112924] run_cart current_filename: /home/evanmitchell/.lexaloffle/pico-8/carts/forever_&_ever/main.p8 running_filename: forever_&_ever/main.p8 running_cart_lid: 
+[4119218] run_cart current_filename: /home/evanmitchell/.lexaloffle/pico-8/carts/forever_&_ever/main.p8 running_filename: forever_&_ever/main.p8 running_cart_lid: 
+[4122635] run_cart current_filename: /home/evanmitchell/.lexaloffle/pico-8/carts/forever_&_ever/main.p8 running_filename: forever_&_ever/main.p8 running_cart_lid: 
+[4136969] run_cart current_filename: /home/evanmitchell/.lexaloffle/pico-8/carts/forever_&_ever/main.p8 running_filename: forever_&_ever/main.p8 running_cart_lid: 
+[4157704] run_cart current_filename: /home/evanmitchell/.lexaloffle/pico-8/carts/forever_&_ever/main.p8 running_filename: forever_&_ever/main.p8 running_cart_lid: 
+[4181379] run_cart current_filename: /home/evanmitchell/.lexaloffle/pico-8/carts/forever_&_ever/main.p8 running_filename: forever_&_ever/main.p8 running_cart_lid: 
+[4246035] run_cart current_filename: /home/evanmitchell/.lexaloffle/pico-8/carts/forever_&_ever/main.p8 running_filename: forever_&_ever/main.p8 running_cart_lid: 
+[4276788] run_cart current_filename: /home/evanmitchell/.lexaloffle/pico-8/carts/forever_&_ever/main.p8 running_filename: forever_&_ever/main.p8 running_cart_lid: 
+[4287306] run_cart current_filename: /home/evanmitchell/.lexaloffle/pico-8/carts/forever_&_ever/main.p8 running_filename: forever_&_ever/main.p8 running_cart_lid: 
+[4305621] run_cart current_filename: /home/evanmitchell/.lexaloffle/pico-8/carts/forever_&_ever/main.p8 running_filename: forever_&_ever/main.p8 running_cart_lid: 
+[4308436] run_cart current_filename: /home/evanmitchell/.lexaloffle/pico-8/carts/forever_&_ever/main.p8 running_filename: forever_&_ever/main.p8 running_cart_lid: 
+[4340511] run_cart current_filename: /home/evanmitchell/.lexaloffle/pico-8/carts/forever_&_ever/main.p8 running_filename: forever_&_ever/main.p8 running_cart_lid: 
+[4378798] run_cart current_filename: /home/evanmitchell/.lexaloffle/pico-8/carts/forever_&_ever/main.p8 running_filename: forever_&_ever/main.p8 running_cart_lid: 
+[4459915] run_cart current_filename: /home/evanmitchell/.lexaloffle/pico-8/carts/forever_&_ever/main.p8 running_filename: forever_&_ever/main.p8 running_cart_lid: 
+[4465585] run_cart current_filename: /home/evanmitchell/.lexaloffle/pico-8/carts/forever_&_ever/main.p8 running_filename: forever_&_ever/main.p8 running_cart_lid: 
+[4483216] run_cart current_filename: /home/evanmitchell/.lexaloffle/pico-8/carts/forever_&_ever/main.p8 running_filename: forever_&_ever/main.p8 running_cart_lid: 
+[4502227] run_cart current_filename: /home/evanmitchell/.lexaloffle/pico-8/carts/forever_&_ever/main.p8 running_filename: forever_&_ever/main.p8 running_cart_lid: 
+[4508336] run_cart current_filename: /home/evanmitchell/.lexaloffle/pico-8/carts/forever_&_ever/main.p8 running_filename: forever_&_ever/main.p8 running_cart_lid: 
+[4535544] run_cart current_filename: /home/evanmitchell/.lexaloffle/pico-8/carts/forever_&_ever/main.p8 running_filename: forever_&_ever/main.p8 running_cart_lid: 
+[4581194] run_cart current_filename: /home/evanmitchell/.lexaloffle/pico-8/carts/forever_&_ever/main.p8 running_filename: forever_&_ever/main.p8 running_cart_lid: 
+[4605139] run_cart current_filename: /home/evanmitchell/.lexaloffle/pico-8/carts/forever_&_ever/main.p8 running_filename: forever_&_ever/main.p8 running_cart_lid: 
+[4626305] run_cart current_filename: /home/evanmitchell/.lexaloffle/pico-8/carts/forever_&_ever/main.p8 running_filename: forever_&_ever/main.p8 running_cart_lid: 
+[4634642] run_cart current_filename: /home/evanmitchell/.lexaloffle/pico-8/carts/forever_&_ever/main.p8 running_filename: forever_&_ever/main.p8 running_cart_lid: 
+[4639595] run_cart current_filename: /home/evanmitchell/.lexaloffle/pico-8/carts/forever_&_ever/main.p8 running_filename: forever_&_ever/main.p8 running_cart_lid: 
+[4661096] run_cart current_filename: /home/evanmitchell/.lexaloffle/pico-8/carts/forever_&_ever/main.p8 running_filename: forever_&_ever/main.p8 running_cart_lid: 
+[4675122] codo_exit
+[4675122]   cmusic_stop
+[4675122]   codo_main_exit
+[4675124]   codo_config_save
+[4675125]   codo_sound_exit
+[4675125]   codo_video_exit
+[4675126]   codo_joystick_exit
+[4675126]   codo_system_exit
+[4675127]   codo_items_created: 1439
+[4675127] ok

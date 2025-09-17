@@ -28,6 +28,12 @@ function _draw()
 		draw_player()
 	end
 end
+
+function center_text(str,y,col)
+ local x=(128-#str*4)/2
+ local col=col or 7
+ print(str,x,y,col)
+end
 -->8
 -- map
 function make_map()
@@ -64,13 +70,15 @@ end
 
 function draw_menu()
 	rect(0,0,127,127,3)
-	rectfill(8,8,120,120,11)
-	print("welcome!",40,20,7)
+	center_text("welcome!",50)
 
 	for i=1,#selection do
-		local y=30+i*10
-		local prefix=(i==current) and "➡️ " or "   "
-		print(prefix..selection[i],40,y)
+		local y=50+i*10
+		if i==current then
+			center_text(selection[i],y,11)
+		else
+			center_text(selection[i],y,7)
+		end
 	end
 end
 
@@ -87,10 +95,10 @@ function make_selection()
 end
 
 function draw_how_to_play()
-	rect(8, 8, 120, 120, 7)
-	print("how to play", 40, 20, 7)
-	print("use arrow keys to move", 20, 40)
-	print("press 🅾️ to return to menu", 20, 60)
+	rect(0,0,127,127)
+	center_text("how to play",20)
+	center_text("use arrow keys to move",40)
+	center_text("🅾️: return to menu",60)
 end
 
 function leave_how_to_play()
