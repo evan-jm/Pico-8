@@ -12,26 +12,18 @@ function _init()
 end
 
 function _update()
-	if menu_active then
-		move_cursor()
-		make_selection()
-	elseif map_active then
-		move_player()
-	end
+	if (menu_active) move_cursor()
+	if (map_active) move_player()
 end
 
 function _draw()
 	cls()
-	if menu_active then
-		draw_menu()
-	elseif map_active then
-		draw_map()
-		draw_player()
-	end
+	draw_menu()
 end
 -->8
 -- map
 function make_map()
+	map_active=true
 end
 
 function draw_map()
@@ -98,20 +90,13 @@ function move_cursor()
 end
 
 function make_selection()
-	if btnp(❎) then
-		-- if cursor on start, start the game
-		if current==1 then
-			start_game()
-		-- if cursor on how to play, show popup
-		elseif current==2 then
-			show_how_to_play()
-		end
-	end
+	-- if
 end
 
 function start_game()
-	menu_active=false
-	map_active=true
+	menu_active = false
+	draw_map()
+	draw_player()
 end
 __gfx__
 00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000

@@ -21,8 +21,8 @@ end
 
 function _draw()
 	cls()
-	if (state=="menu") draw_menu()
 	if (state=="how_to") draw_how_to_play()
+	if (state=="menu") draw_menu()
 	if state=="map" then
 		draw_map()
 		draw_player()
@@ -63,38 +63,43 @@ function make_menu()
 end
 
 function draw_menu()
-	rect(0,0,127,127,3)
-	rectfill(8,8,120,120,11)
-	print("welcome!",40,20,7)
-
-	for i=1,#selection do
-		local y=30+i*10
-		local prefix=(i==current) and "➡️ " or "   "
-		print(prefix..selection[i],40,y)
-	end
+	cls()
+	print("welcome!", 40, 20)
+	
+	if (current==1) print("➡️ start", 40, 40)
+	if (current!=1) print("start", 48, 40)
+	if (current==2) print("➡️ how to play", 40, 50)
+	if (current!=2) print("how to play", 48, 50)
 end
 
 function move_cursor()
-	if (btnp(⬆️)) current -= 1
-	if (btnp(⬇️)) current += 1
+	if (btnp(⬆️) or btnp(⬇️)) current-=1
 	if (current > #selection) current = 1
 	if (current < 1) current = #selection
 end
 
 function make_selection()
-	if (btnp(❎) and current==1) state="map"
-	if (btnp(❎) and current==2) state="how_to"
+	if btnp(❎) then
+		if (current==1) start_game()
+		if (current==2) state="how_to"
+	end
+end
+
+function start_game()
+	state="map"
 end
 
 function draw_how_to_play()
-	rect(8, 8, 120, 120, 7)
-	print("how to play", 40, 20, 7)
-	print("use arrow keys to move", 20, 40)
-	print("press 🅾️ to return to menu", 20, 60)
+	cls()
+	print("im in the how to play")
+	print("made with the utmost love for my baby")
+	print("return to menu: ❎")
 end
 
 function leave_how_to_play()
-	if (btnp(🅾️)) state="menu"
+	if btnp(❎) then
+		state="menu"
+	end
 end
 __gfx__
 00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000

@@ -21,6 +21,8 @@ end
 
 function _draw()
 	cls()
+	print(state,0,0)
+	print(current)
 	if (state=="menu") draw_menu()
 	if (state=="how_to") draw_how_to_play()
 	if state=="map" then
@@ -63,14 +65,12 @@ function make_menu()
 end
 
 function draw_menu()
-	rect(0,0,127,127,3)
-	rectfill(8,8,120,120,11)
-	print("welcome!",40,20,7)
+	print("welcome!", 40, 20)
 
 	for i=1,#selection do
-		local y=30+i*10
-		local prefix=(i==current) and "➡️ " or "   "
-		print(prefix..selection[i],40,y)
+		local y = 30 + i * 10
+		local prefix = (i == current) and "➡️ " or "   "
+		print(prefix..selection[i], 40, y)
 	end
 end
 
@@ -82,19 +82,21 @@ function move_cursor()
 end
 
 function make_selection()
-	if (btnp(❎) and current==1) state="map"
-	if (btnp(❎) and current==2) state="how_to"
+	if btnp(❎) then
+		if (current==1) state="map"
+		if (current==2) state="how_to"
+	end
 end
 
 function draw_how_to_play()
 	rect(8, 8, 120, 120, 7)
 	print("how to play", 40, 20, 7)
 	print("use arrow keys to move", 20, 40)
-	print("press 🅾️ to return to menu", 20, 60)
+	print("press ❎ to return to menu", 20, 60)
 end
 
 function leave_how_to_play()
-	if (btnp(🅾️)) state="menu"
+	if (btnp(❎)) state="menu"
 end
 __gfx__
 00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
