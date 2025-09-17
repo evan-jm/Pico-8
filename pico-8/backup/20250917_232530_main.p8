@@ -4,6 +4,7 @@ __lua__
 -- game loop
 function _init()
 	state="menu"
+	
 	make_menu()
 	make_map()
 	make_player()
@@ -48,16 +49,15 @@ function make_map()
 end
 
 function draw_map()
-  camera(p.x-61,p.y-61)
-	map(0,0,0,0,128,128)
+	map(0,0,0,0,64,64)
 end
 -->8
 -- player
 function make_player()
 	p={}
-	p.x=64
-	p.y=100
-	p.sprite=0
+	p.x=3
+	p.y=3
+	p.sprite=0,1,2,3
 end
 
 function draw_player()
@@ -73,7 +73,7 @@ end
 -->8
 -- menu
 function make_menu()
-	selection={"start","how to play"}
+	selection={"start", "how to play"}
 	current=1
 end
 
@@ -92,10 +92,10 @@ function draw_menu()
 end
 
 function move_cursor()
-	if (btnp(⬆️)) current-=1
-	if (btnp(⬇️)) current+=1
-	if (current > #selection) current=1
-	if (current < 1) current=#selection
+	if (btnp(⬆️)) current -= 1
+	if (btnp(⬇️)) current += 1
+	if (current > #selection) current = 1
+	if (current < 1) current = #selection
 end
 
 function make_selection()
