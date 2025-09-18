@@ -29,93 +29,72 @@
 [000000]     24 joystick_index 0
 [000000]     25 merge_joysticks 0
 [000000]     26 button_keys 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
-[000001]     27 live_notes 0
-[000001]     28 cursor_snap 0
-[000001]     29 gui_theme 0
-[000001]     30 screenshot_scale 3
-[000001]     31 gif_scale 3
-[000001]     32 gif_len 16
-[000001]     33 gif_reset_mode 0
-[000001]     34 host_framerate_control 1
-[000001]     35 splore_filter 0
-[000001]     36 boot_to_splore 0
-[000001]     37 tab_width 1
-[000001]     38 draw_tabs 0
-[000001]     39 record_activity_log 1
-[000001]     40 allow_function_keys 1
-[000001]     41 check_for_cart_updates 1
-[000001]     42 auto_hide_mouse_cursor 5
-[000001]     43 aggressive_backups 0
-[000001]     44 periodic_backups 20
-[000001]     45 transform_screen 0
-[000001]     46 gfx_grid_lines 0
-[000001]     47 capture_timestamps 0
-[000001]     48 max_prefetch_threads 4
-[000001]     49 accept_future 0
-[000001]   
-[000001]   codo_system_init
-[000141]   Compiled against SDL version: 2.0.8
-[000141]   Linked against SDL version:   2.0.8
-[000141]   Current video driver: x11
-[000141]   codo_reset_timer
-[000141]   codo_gui_init
-[000142]   codo_keys_init
-[000142]   codo_text_init
-[000142]   codo_video_init
-[000142]   codo_mouse_init
-[000142]   codo_joystick_init
-[000142]   Reading controller mappings: /home/evanmitchell/.lexaloffle/pico-8/sdl_controllers.txt
-[000142]   searching for joysticks
-[000142]     found 0 joysticks
-[000142]   ok
-[000142] ok
-[000159] codo_load_pod: /home/evanmitchell/bin/pico-8/pico8.dat ok 
-[000161] codo_set_screen 128 128 8 100
-[000161]  window size: 640 540
-[000161] setting fullscreen window size to 1920 1080
-[000215]   setting filter to nearest (screen_mode 1  back page width: 128)
+[000000]     27 live_notes 0
+[000000]     28 cursor_snap 0
+[000000]     29 gui_theme 0
+[000000]     30 screenshot_scale 3
+[000000]     31 gif_scale 3
+[000000]     32 gif_len 16
+[000000]     33 gif_reset_mode 0
+[000000]     34 host_framerate_control 1
+[000000]     35 splore_filter 0
+[000000]     36 boot_to_splore 0
+[000000]     37 tab_width 1
+[000000]     38 draw_tabs 0
+[000000]     39 record_activity_log 1
+[000000]     40 allow_function_keys 1
+[000000]     41 check_for_cart_updates 1
+[000000]     42 auto_hide_mouse_cursor 5
+[000000]     43 aggressive_backups 0
+[000000]     44 periodic_backups 20
+[000000]     45 transform_screen 0
+[000000]     46 gfx_grid_lines 0
+[000000]     47 capture_timestamps 0
+[000000]     48 max_prefetch_threads 4
+[000000]     49 accept_future 0
+[000000]   
+[000000]   codo_system_init
+[000139]   Compiled against SDL version: 2.0.8
+[000139]   Linked against SDL version:   2.0.8
+[000139]   Current video driver: x11
+[000139]   codo_reset_timer
+[000139]   codo_gui_init
+[000139]   codo_keys_init
+[000139]   codo_text_init
+[000139]   codo_video_init
+[000139]   codo_mouse_init
+[000139]   codo_joystick_init
+[000139]   Reading controller mappings: /home/evanmitchell/.lexaloffle/pico-8/sdl_controllers.txt
+[000139]   searching for joysticks
+[000139]     found 0 joysticks
+[000139]   ok
+[000139] ok
+[000143] codo_load_pod: /home/evanmitchell/bin/pico-8/pico8.dat ok 
+[000146] codo_set_screen 128 128 8 100
+[000146]  window size: 640 540
+[000146] setting fullscreen window size to 1920 1080
+[000167]   setting filter to nearest (screen_mode 1  back page width: 128)
   renderer opengl:
    flags: 0x0000000E ( |  | )
    texture formats (5): ARGB8888, YV12, IYUV, 0x3231564e, 0x3132564e
    max texture size: 16384x16384
-[000216]  desktop size: 1920 1080
-[000216] ok
-[000218] codo_sound_init mix_buffer_size: 1024
-[000218] codo_sound_init
-[000218] SDL_INIT_AUDIO ok
-[000230] SDL_OpenAudio ok
-[000230]  freq:22050
+[000168]  desktop size: 1920 1080
+[000168] ok
+[000169] codo_sound_init mix_buffer_size: 1024
+[000169] codo_sound_init
+[000169] SDL_INIT_AUDIO ok
+[000180] SDL_OpenAudio ok
+[000180]  freq:22050
  channels:1
-[000230] Built-in audio drivers: 0 pulseaudio 1 alsa 2 dsp 3 disk 4 dummy
-[000230] Current audio driver: pulseaudio
-[002237] splore_init
-[002237] could not load favourites file: /home/evanmitchell/.lexaloffle/pico-8/favourites.txt
-[009564] run_cart current_filename: /home/evanmitchell/.lexaloffle/pico-8/carts/forever_&_ever/main.p8 running_filename: forever_&_ever/main.p8 running_cart_lid: 
-[168259] run_cart current_filename: /home/evanmitchell/.lexaloffle/pico-8/carts/forever_&_ever/main.p8 running_filename: forever_&_ever/main.p8 running_cart_lid: 
-[209124] run_cart current_filename: /home/evanmitchell/.lexaloffle/pico-8/carts/forever_&_ever/main.p8 running_filename: forever_&_ever/main.p8 running_cart_lid: 
-[263824] run_cart current_filename: /home/evanmitchell/.lexaloffle/pico-8/carts/forever_&_ever/main.p8 running_filename: forever_&_ever/main.p8 running_cart_lid: 
-[307425] run_cart current_filename: /home/evanmitchell/.lexaloffle/pico-8/carts/forever_&_ever/main.p8 running_filename: forever_&_ever/main.p8 running_cart_lid: 
-[631035] run_cart current_filename: /home/evanmitchell/.lexaloffle/pico-8/carts/forever_&_ever/main.p8 running_filename: forever_&_ever/main.p8 running_cart_lid: 
-[658036] run_cart current_filename: /home/evanmitchell/.lexaloffle/pico-8/carts/forever_&_ever/main.p8 running_filename: forever_&_ever/main.p8 running_cart_lid: 
-[800988] run_cart current_filename: /home/evanmitchell/.lexaloffle/pico-8/carts/forever_&_ever/main.p8 running_filename: forever_&_ever/main.p8 running_cart_lid: 
-[840090] run_cart current_filename: /home/evanmitchell/.lexaloffle/pico-8/carts/forever_&_ever/main.p8 running_filename: forever_&_ever/main.p8 running_cart_lid: 
-[864703] run_cart current_filename: /home/evanmitchell/.lexaloffle/pico-8/carts/forever_&_ever/main.p8 running_filename: forever_&_ever/main.p8 running_cart_lid: 
-[1197684] run_cart current_filename: /home/evanmitchell/.lexaloffle/pico-8/carts/forever_&_ever/main.p8 running_filename: forever_&_ever/main.p8 running_cart_lid: 
-[1215913] run_cart current_filename: /home/evanmitchell/.lexaloffle/pico-8/carts/forever_&_ever/main.p8 running_filename: forever_&_ever/main.p8 running_cart_lid: 
-[1218304] run_cart current_filename: /home/evanmitchell/.lexaloffle/pico-8/carts/forever_&_ever/main.p8 running_filename: forever_&_ever/main.p8 running_cart_lid: 
-[1260938] run_cart current_filename: /home/evanmitchell/.lexaloffle/pico-8/carts/forever_&_ever/main.p8 running_filename: forever_&_ever/main.p8 running_cart_lid: 
-[1369531] run_cart current_filename: /home/evanmitchell/.lexaloffle/pico-8/carts/forever_&_ever/main.p8 running_filename: forever_&_ever/main.p8 running_cart_lid: 
-[1405929] run_cart current_filename: /home/evanmitchell/.lexaloffle/pico-8/carts/forever_&_ever/main.p8 running_filename: forever_&_ever/main.p8 running_cart_lid: 
-[1421870] run_cart current_filename: /home/evanmitchell/.lexaloffle/pico-8/carts/forever_&_ever/main.p8 running_filename: forever_&_ever/main.p8 running_cart_lid: 
-[1432559] run_cart current_filename: /home/evanmitchell/.lexaloffle/pico-8/carts/forever_&_ever/main.p8 running_filename: forever_&_ever/main.p8 running_cart_lid: 
-[1615394] run_cart current_filename: /home/evanmitchell/.lexaloffle/pico-8/carts/forever_&_ever/main.p8 running_filename: forever_&_ever/main.p8 running_cart_lid: 
-[1633271] run_cart current_filename: /home/evanmitchell/.lexaloffle/pico-8/carts/forever_&_ever/main.p8 running_filename: forever_&_ever/main.p8 running_cart_lid: 
-[1691276] run_cart current_filename: /home/evanmitchell/.lexaloffle/pico-8/carts/forever_&_ever/main.p8 running_filename: forever_&_ever/main.p8 running_cart_lid: 
-[1772960] run_cart current_filename: /home/evanmitchell/.lexaloffle/pico-8/carts/forever_&_ever/main.p8 running_filename: forever_&_ever/main.p8 running_cart_lid: 
-[1907731] run_cart current_filename: /home/evanmitchell/.lexaloffle/pico-8/carts/forever_&_ever/main.p8 running_filename: forever_&_ever/main.p8 running_cart_lid: 
-[1925591] run_cart current_filename: /home/evanmitchell/.lexaloffle/pico-8/carts/forever_&_ever/main.p8 running_filename: forever_&_ever/main.p8 running_cart_lid: 
-[1945457] run_cart current_filename: /home/evanmitchell/.lexaloffle/pico-8/carts/forever_&_ever/main.p8 running_filename: forever_&_ever/main.p8 running_cart_lid: 
-[1960002] run_cart current_filename: /home/evanmitchell/.lexaloffle/pico-8/carts/forever_&_ever/main.p8 running_filename: forever_&_ever/main.p8 running_cart_lid: 
-[1991520] run_cart current_filename: /home/evanmitchell/.lexaloffle/pico-8/carts/forever_&_ever/main.p8 running_filename: forever_&_ever/main.p8 running_cart_lid: 
-[2011585] run_cart current_filename: /home/evanmitchell/.lexaloffle/pico-8/carts/forever_&_ever/main.p8 running_filename: forever_&_ever/main.p8 running_cart_lid: 
-[2041624] run_cart current_filename: /home/evanmitchell/.lexaloffle/pico-8/carts/forever_&_ever/main.p8 running_filename: forever_&_ever/main.p8 running_cart_lid: 
+[000180] Built-in audio drivers: 0 pulseaudio 1 alsa 2 dsp 3 disk 4 dummy
+[000180] Current audio driver: pulseaudio
+[002187] splore_init
+[002187] could not load favourites file: /home/evanmitchell/.lexaloffle/pico-8/favourites.txt
+[008238] run_cart current_filename: /home/evanmitchell/.lexaloffle/pico-8/carts/forever_&_ever/main.p8 running_filename: forever_&_ever/main.p8 running_cart_lid: 
+[083516] run_cart current_filename: /home/evanmitchell/.lexaloffle/pico-8/carts/forever_&_ever/main.p8 running_filename: forever_&_ever/main.p8 running_cart_lid: 
+[141914] run_cart current_filename: /home/evanmitchell/.lexaloffle/pico-8/carts/forever_&_ever/main.p8 running_filename: forever_&_ever/main.p8 running_cart_lid: 
+[185691] run_cart current_filename: /home/evanmitchell/.lexaloffle/pico-8/carts/forever_&_ever/main.p8 running_filename: forever_&_ever/main.p8 running_cart_lid: 
+[198995] run_cart current_filename: /home/evanmitchell/.lexaloffle/pico-8/carts/forever_&_ever/main.p8 running_filename: forever_&_ever/main.p8 running_cart_lid: 
+[205623] run_cart current_filename: /home/evanmitchell/.lexaloffle/pico-8/carts/forever_&_ever/main.p8 running_filename: forever_&_ever/main.p8 running_cart_lid: 
+[212615] run_cart current_filename: /home/evanmitchell/.lexaloffle/pico-8/carts/forever_&_ever/main.p8 running_filename: forever_&_ever/main.p8 running_cart_lid: 
+[227873] run_cart current_filename: /home/evanmitchell/.lexaloffle/pico-8/carts/forever_&_ever/main.p8 running_filename: forever_&_ever/main.p8 running_cart_lid: 

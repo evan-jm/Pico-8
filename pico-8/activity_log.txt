@@ -87,4 +87,13 @@
  ....grggggggg.g.........ggggggggggrrrg.....rg.........g......ggrgmggggggggmmrmmm
  mmmmmrmgggggggggggg.........rrrgg.rrgg....gcci..irrgg.........grrig.......gr_rg.
  rggrgg........cci.........gccc.ccc........crrcc.rrccc.....i..cccccccrc.........r
+ rrrrrrrrrc.........c....rrc...rrrrcc.rrc.rrr_______rrrr___rrc.......rrcc.cc.....
+ ....rrrrrrr___rcc.........cc........iccccccccc....icrrrrrccggggggggg.g.........g
+ gggggggggggggrg.........rigg.........ccccccccccrrcc.rcccrcc..crrcc.....cc..c....
+ ..rrrrcc.cggggggggg...gcccccccccccccccccccccccccccccc....ccccirr__irrrrrrrr_____
+ 
+2025-09-18 00:04:27 /home/evanmitchell/.lexaloffle/pico-8/carts/untitled.p8
+ ii
+2025-09-18 00:04:33 /home/evanmitchell/.lexaloffle/pico-8/carts/forever_&_ever/main.p8
+ rccccc...ccccccccccccicccrrrrcccccccccc..ccccrccccccccccccci.ccccciciccccrrccccc
  
