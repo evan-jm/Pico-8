@@ -96,4 +96,79 @@
  ii
 2025-09-18 00:04:33 /home/evanmitchell/.lexaloffle/pico-8/carts/forever_&_ever/main.p8
  rccccc...ccccccccccccicccrrrrcccccccccc..ccccrccccccccccccci.ccccciciccccrrccccc
- 
+ ccccccccccccci
+2025-09-18 00:09:49 /home/evanmitchell/.lexaloffle/pico-8/carts/untitled.p8
+ iiiiiii
+2025-09-18 00:10:11 /home/evanmitchell/.lexaloffle/pico-8/carts/forever_&_ever/main.p8
+ i.iii.........i.
+2025-09-18 00:35:09 /home/evanmitchell/.lexaloffle/pico-8/carts/untitled.p8
+ i
+2025-09-18 00:35:12 /home/evanmitchell/.lexaloffle/pico-8/carts/forever_&_ever/main.p8
+ riiii...i
+2025-09-18 01:00:08 /home/evanmitchell/.lexaloffle/pico-8/carts/untitled.p8
+ iii
+2025-09-18 01:00:17 /home/evanmitchell/.lexaloffle/pico-8/carts/forever_&_ever/main.p8
+ r
+2025-09-18 01:10:14 /home/evanmitchell/.lexaloffle/pico-8/carts/untitled.p8
+ ii
+2025-09-18 01:10:20 /home/evanmitchell/.lexaloffle/pico-8/carts/forever_&_ever/main.p8
+ iii
+2025-09-18 01:11:50 /home/evanmitchell/.lexaloffle/pico-8/carts/untitled.p8
+ iiii
+2025-09-18 01:12:02 /home/evanmitchell/.lexaloffle/pico-8/carts/forever_&_ever/main.p8
+ cgg.gg...g.........
+2025-09-18 01:15:12 /home/evanmitchell/.lexaloffle/pico-8/carts/untitled.p8
+ ii
+2025-09-18 01:15:18 /home/evanmitchell/.lexaloffle/pico-8/carts/forever_&_ever/main.p8
+ ic..gg.ggg.mcmg.ggg.....rrg..gii......iiii...igg.g.........ggg...giiiiiiiiiiiiii
+ i......iiriiiiiigggi....i.i......i
+2025-09-18 01:36:58 /home/evanmitchell/.lexaloffle/pico-8/carts/untitled.p8
+ ic
+2025-09-18 01:37:04 /home/evanmitchell/.lexaloffle/pico-8/carts/forever_&_ever/main.p8
+ csssssssssssss..s.........s..s.sssssssss.ssssssssss......s.........ssss...sssss.
+ .ss.sss.........ssssss..ss........scccccccccc......cc........ccrrr__r___rrc.cccc
+ ciccrr__r_________rc
+2025-09-18 21:40:26 /home/evanmitchell/.lexaloffle/pico-8/carts/untitled.p8
+ ii
+2025-09-18 21:40:32 /home/evanmitchell/.lexaloffle/pico-8/carts/forever_&_ever/main.p8
+ rcccc.mmmg....gggggggggggggggggggggggg.g.ggggggggggggggggggggggggggggggggggggggg
+ ggggggggggggggg.gggggggg........irgmmmmmmmmggggggm.mmggggggggggggggggggggggggmmm
+ mmmmmmmmmggggggggggrgggmmmmmmmmmmcciimcccrrcrricccrrrcccccccrcccrcmmmggggggggggg
+ ggggggggggggmrrmmmmmmmmmmmggggggcccrggcrc.cccccccccccccrccccc.......cccccccccccc
+ cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
+ cccccccccccmmmmmmmgmggmgmggggggggmgggggggggggmmgggmmmmgmmmmmmmmgggggggggmmrrmmmm
+ mmmmm.........mgmgmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmrrmgggggggggrgcccc.ccccccccgccrr
+ rrrcgggrgggrgmmmrmmggggggggggggggggggggggg.gg...ggggmmmrm.........m........mmmmm
+ mmmmmmmm...ggggggg.ggggggggggggggggggggggggggggggggg.ggggggccccccccc.cccccc.c...
+ ......cccccccccccccccccccicccccrcccccccccccc...cccccccccccc..c.ccccccc.cc...cccc
+ ccc.cccccccccccccccccccc........ccccccccccccciccriiccccccrccc.ccc.cccccccrcccccc
+ c.c.cc.cccccccccccc.ccc.........ccccccccccicccccc.ciiccccccccccccccccccccccccccc
+ ccccccccccccccccccccccccccccccc.ccccccccc.ccc.cccc.cc.........cc.ccccicccggccccc
+ ccccccccccc..ccccccccccccccccccccccccccc.c........ccc.ccccccccccc.cicrrrc.......
+ ..cggcccc..ccc...cccccc.cccccccccccccccccccccccccccc....cccccccccccccc......cccc
+ ccccccccccccccccccccccccccccccccccccccccccccccccccccc....cccccccccccccc.cccccccc
+ ccccccccccccccccccccccccccccccccccccccccccccccccccc...c.........c.........cccccc
+ cccc..cccrccccrcc..cccccccccccccccccccccccccccccccccccccccc.cccccccccccc.ccccccc
+ cci.cccrrc.ccccccccccccccccccccc......ccciiccmmggcccccccccccccccccrrrrcc........
+ .cccccrrrcc.........mmmgmrrrirmgccccrrc.crrcc.........cccrrrrcc...cccccccrrrcccc
+ cc........c...ccccccccccrrc.ccccci...ccrrrrcccccccccccccc...cccc.........c.cc...
+ ......cccccicrrrrccccccrrccrrrrrccc........ic
+2025-09-18 23:43:19 C:/Users/Evan Mitchell/AppData/Roaming/pico-8/carts/untitled.p8
+ ii
+2025-09-18 23:43:25 C:/Users/Evan Mitchell/AppData/Roaming/pico-8/carts/forever_&_ever/main.p8
+ rrc...ccsrrrcccc..ccc.........ccmmmtsssssssssststtttssssssssssssssssssssssssssmm
+ mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm..ccccrrrrriccccccccc
+ ccccccccccrrrrcccccccccccrrcccrcrcrrr___irrrrrccccrrrcggggggmmmmmm.mmmmmm....mmm
+ mmmmmmmmmmmmmmmmm...mmmmmmggmmmriccccccccrcccrccrrcmmmmmmmmmmmmmmmmmmmmmmmmmmmmr
+ gccrrrccrrrrrrcgggggggggmrr_mmmrrmmmmcc.ccccrcccrrcmmmmm.crrcmmmmmmm.crrccccmmmm
+ mmmmmgggggggmmmmmmmmmmmmmmmmmmmmmggggggggmmrrmggcgggmgmmmmggg...gmmggggggggggggg
+ gggggggggmmmmmmrccrrrrrrrccmmmmmmrmmmrmmmmmmggggggggggggggggggggggggggggmmmmmmmm
+ mmmmmmmgggggggggggggggmmmmm..mmmmggggggggggggggggggggrmmmmmmmmmmmmgmrmmmmmmmmgmm
+ mmmmmmmmmmmmmmmmmmmmmmmmimmmmmmmmmmmmmmmmmmcc.ccc.ccrrcccccc.rc....cc.mmmmcrmmmc
+ .cmgggggmmmgggggggggggggggggmmrrmccccmggcccrrcrcrccmmmmmmmmmmmmrrr__rmcccccccccc
+ ccccccccccccccccc..cccccccccccc.cccccccggccccccccccccrrcccccrccccccccccccccccrcc
+ ccrcicrcccccri...ccccccrcccccrcccc.ccciccccccccciccccccccccc.ccccc...cccccccc.cc
+ ccccccrciccccircccccccccccccccrc..cccccricccccccc.ccc..cccrcccrccccccccccic.cccc
+ cccccccccccicc...cccccccrccccc.........crccrcccccccccciii.........icccccccccccci
+ c.ccci.cc.cccccccccccci.i...iii.........cccccccrrccccccccccccccrc.c...cc.cccccc.
+ .ccccrrrrrr_rrcrccccccccccrcccccrcrrrrr_gggcccci
